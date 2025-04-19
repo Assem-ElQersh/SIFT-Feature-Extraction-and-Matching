@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Project Structure
 
 ```
-feature-extraction-matching/
+SIFT-Feature-Extraction-and-Matching
 ├── LICENSE
 ├── README.md
 ├── requirements.txt
