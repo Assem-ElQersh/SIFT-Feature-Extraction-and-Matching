@@ -1,5 +1,7 @@
 # Feature Extraction and Matching
 
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org) [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 This repository contains code for feature extraction and matching using SIFT (Scale-Invariant Feature Transform) and other techniques for object detection in images and videos.
 
 ## Overview
@@ -16,8 +18,8 @@ The implementation uses OpenCV, which provides efficient pre-implemented feature
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Assem-ElQersh/feature-extraction-matching.git
-cd feature-extraction-matching
+git clone https://github.com/Assem-ElQersh/SIFT-Feature-Extraction-and-Matching.git
+cd SIFT-Feature-Extraction-and-Matching
 ```
 
 2. Create a virtual environment (optional but recommended):
