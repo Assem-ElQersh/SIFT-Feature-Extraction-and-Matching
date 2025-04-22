@@ -10,7 +10,7 @@ The project implements object detection using feature extraction and matching al
 
 1. Detect objects in static images
 2. Track objects in videos (bonus feature)
-3. Work with various feature detectors (SIFT, ORB)
+3. Work with various feature detectors ([SIFT](https://en.wikipedia.org/wiki/Scale-invariant_feature_transform), ORB)
 
 The implementation uses OpenCV, which provides efficient pre-implemented feature extractors and matchers.
 
